@@ -1,0 +1,21 @@
+/* Apply a white background to the popup */
+body {
+  background-color: #0077b6;
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  color: white; /* header with Steam white color */
+}
+
+
+button {
+  background-color: #0077b6; /* the button with blue color */
+  color: white;
+}
+
+/* Change the button color on hover */
+button:hover {
+  background-color: #005d91; /* Slightly darker blue on hover */
+}
